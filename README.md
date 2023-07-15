@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Shaun (he/him), a tech lead/engineering manager based in the UK. 
+I'm Shaun (he/him), a tech lead based in the UK. 
 
-If you need someone to help you with a community project, I hope you get in touch!
+If you need someone to help you with a community project, reach out!
 
 🕸️https://shaunbulbrook.com
 📫https://hachyderm.io/@shaunofthedev
